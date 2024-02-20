@@ -1,3 +1,3 @@
 def call(){
-    sh 'mvn cobertura:cobertura'
+    sh 'mvn test'
 }
